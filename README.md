@@ -4,7 +4,7 @@
 
 <p id="description">Hi i'm Riza a Fullstack web developer This is my portfoilo you can find my social media from there .</p>
 
-<h2>🚀 Demo</h2>
+<h2>🚀 Link</h2>
 
 [https://tofficialriza.website/](https://tofficialriza.website/)
 
